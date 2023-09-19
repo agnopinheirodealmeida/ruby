@@ -1,0 +1,221 @@
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <link rel="stylesheet" type="text/css" href="./css/slick.css" />
+    <title>cvt fortim </title>
+</head>
+
+<body>
+    <header class="menu-principal">
+        <main>
+            <div class="header-1">
+                <div class="logo">
+                    <img src="./img/tw.png" />
+                </div>
+                <div class="redes-sociais">
+                    <ul>
+                        <li>
+                            <a href="">
+                                <img src="img/tinder.png"
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="./img/insta.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="./img/zap xd.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="./img/tik tok.png" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </main>
+    </header>
+    <main class="col-100 menu-urls">
+        <div class="header-2">
+            <div class="menu">
+                <ul>
+                    <li>
+                        <a href="">inicio</a>
+                    </li>
+                    <li>
+                        <a href="">sobre</a>
+                    </li>
+                    <li>
+                        <a href="">serviços</a>
+                    </li>
+                    <li>
+                        <a href="">Paginas</a>
+                    </li>
+                    <li>
+                        <a href="">historia</a>
+                    </li>
+                    <li>
+                        <a href="">minhas perolas</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="busca">
+                <input placeholder="bar da socorro" type="text" />
+            </div>
+        </div>
+    </main>
+    <div class="col-100">
+        <div class="slider-principal">
+            <img src="./img/cvt.jpg" />
+            <img src="./img/fortim,.jpg" />
+            <img src="./img/R.jpg" />
+            <img src="./img/agno.jpg" />
+        </div>
+    </div>
+    <div class="col-100">
+        <div class="content texto-destaque">
+            <h1>CVT FORTIM - <strong>CURSOS E CAPACITAÇÕES</strong> - INSCREVA-SE JÁ.</h1>
+            <p>O Instituto Centro de Ensino Tecnológico (Centec) é uma Organização Social
+                (OS) que é centro de referência em Educação Profissional e atua em
+                parceria com instituições públicas, privadas e do Terceiro Setor
+                promovendo a educação e a tecnologia por meio do ensino, da pesquisa,
+                da inovação e da extensão, em áreas estratégicas para o desenvolvimento
+                sustentável do Estado do Ceará.</p>
+
+            <div class="col-3 bloco-texto">
+                <img src="./img/cursos.png" />
+                <h3><b>CURSOS</b></h3>
+                <p>o Instituto Centec oferece cursos de formação inicial e continuada de
+                    trabalhadores em diversas áreas.
+                </p>
+            </div>
+            <div class="col-3 bloco-texto" style="margin-top: 6em;">
+                <img src="./img/palestras.png" />
+                <h3><b>PALESTRAS</b></h3>
+                <p>Aqui também temos palestras nas mais diversas áreas para alunos,
+                    professores e empresas.
+                </p>
+            </div>
+            <div class="col-3 bloco-texto">
+                <img src="./img/parceria.png" />
+                <h3><b>PARCERIAS</b></h3>
+                <p>Temos diversos parceiros que possibilitam ao CVT ofertar cursos
+                    e sediar eventos diversos.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-100 bloco-imagens-texto">
+        <div class="content" style="margin-left: 24%; float: left;">
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto01.png"
+                <p><b>Foto 01</b></p>
+                <p>Descrição da imagem
+                </p>
+            </div>
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto02.jpg">
+                <p><b>Foto 02</b></p>
+                <p>Descrição da imagem
+                </p>
+            </div>
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto03.jpg">
+                <p><b>Foto 03</b></p>
+                <p>Descrição da imagem
+                </p>
+            </div>
+        </div>
+        <div class="content" style="margin-left: 24%; float: left;">
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto04.jpg">
+                <p><b>Foto 04</b></p>
+                <p>Descrição da imagem
+                </p>
+            </div>
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto05.jpg"
+                <p><b>Foto 05</b></p>
+                <p>Descrição da imagem
+                </p>
+            </div>
+            <div class="col-3 bloco-texto bloco-imagem">
+                <img src="./img/foto06.png">
+                <p><b>Foto 06</b></p>
+                <p>Descrição da imagem
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-100 bloco-logos">
+        <div class="content">
+            <div class="col-4">
+                <img alt="logo" title="logo" src="img/lacoste.png" />
+            </div>
+            <div class="col-4">
+                <img alt="logo" title="logo" src="img/nike .png" />
+            </div>
+            <div class="col-4">
+                <br />
+                <img alt="logo" title="logo" src="img/agno addidas.png" />
+            </div>
+            <div class="col-4">
+                <img alt="Puma" title="Puma" src="img/agno pulma 2.png" />
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="col-100 footer">
+            <div class="content">
+                <div class="col-4">
+                    <h3><b>Postagens Populares</b></h3>
+                    <p>Postagem 01.</p>
+                    <p class="clock">11 de Setembro 2013<p>
+                            <p>Postagem 02.</p>
+                            <p class="clock">25-September 2013<p>
+                </div>
+                
+                <div class="col-4">
+                    <h3><b>Sobre o Instituto Centec</b></h3>
+                    <p>A primeira ideia do que viria a ser o Centec
+                        surgiu em 1996, quando a Secretaria Estadual
+                        da Ciência, Tecnologia e Educação Superior (Secitece)
+                        iniciou os projetos “Centec” e “CVT” com o objetivo
+                        de interiorizar o ensino profissionalizante e a
+                        extensão tecnológica no Ceará.
+                        
+                    </p>
+                </div>
+                <div class="col-4">
+                    <h3><b>Fale conosco</b></h3>
+                    <p>Faça uma visita presencial a nossa unidade
+                        ou nos contate através das redes sociais
+                    </p>
+                    <p class="local">Fortim - CE<p>
+                            <p class="emailico">email@gmail.com<p>
+                                    <p class="telefoneico">88 9 9999-9999<p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="col-100 footer-2">
+        <div class="content">
+        </div> 
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d994.4369317452271!2d-37.79665751832803!3d-4.457947316463925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b84f1419874591%3A0x8cc645e52c895339!2sPra%C3%A7a%20da%20Verdura!5e0!3m2!1spt-PT!2sbr!4v1694723788944!5m2!1spt-PT!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"><inframe
+            <p><center> 
+                Todos os direitos reservados CVT FORTIM
+            </center></p>
+        </div>
+    </div>
+    <script type="text/javascript" src="./js/jquery.js"></script>
+    <script type="text/javascript" src="./js/jquery-migrate.js"></script>
+    <script type="text/javascript" src="./js/slick.min.js"></script>
+    <script type="text/javascript" src="./js/main.js"></script>
+</body>
+
+</html>
